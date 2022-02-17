@@ -1,0 +1,1 @@
+add_executable(classes_and_objects classes_and_objects.cpp)

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(hands_on_design_patterns_with_cpp)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_subdirectory(an_introduction_to_inheritance_and_polymorphism)
